@@ -20,7 +20,7 @@ IP:6264/
 ```
 
 #### POST
-必须携带 content、author 字段值进行 POST，否则会报错 400 error
+必须携带 content、author 字段值进行 POST，否则会报错 400 error server
 ```
 IP:6264/
 ```
