@@ -20,7 +20,7 @@ IP:6264/
 ```
 
 #### POST
-You must carry content and author to deliver data.
+You must carry content or author to pass data, otherwise it will be 400 error server
 ```
 IP:6264/
 ```
