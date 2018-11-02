@@ -1,0 +1,7 @@
+2018-11-02 21:07:05,608  app.py [line:61] INFO ObtainPOSTHandle: increment argument author !
+2018-11-02 21:07:13,552  app.py [line:61] INFO ObtainPOSTHandle: increment argument author !
+2018-11-02 21:07:14,320  app.py [line:61] INFO ObtainPOSTHandle: increment argument author !
+2018-11-02 21:10:12,710  app.py [line:61] INFO ObtainPOSTHandle: increment argument author !
+2018-11-02 21:51:06,225  app.py [line:110] INFO ObtainPOSTHandle: increment argument author !
+2018-11-02 21:52:22,317  app.py [line:110] INFO ObtainPOSTHandle: increment argument !
+2018-11-02 21:53:44,630  app.py [line:124] INFO ObtainPOSTHandle: 200 POST successfully !
