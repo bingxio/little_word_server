@@ -5,6 +5,8 @@
 
 A small python3 tornado service, You can deploy it to your server to get a restful-api service.
 
+You can send some nice sentences in your database, according to API random loading.
+
 - Edit the secret.conf file and configure your mongodb
 - Configure python3 on the server
 - Installation extension based on install-script-doc.txt file
