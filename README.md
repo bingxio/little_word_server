@@ -14,7 +14,15 @@ You can send some nice sentences in your database, according to API random loadi
 - Add a few data to your mongodb database
 - Use your server IP address + port 6264 to see if you can load
 
-### GET Method
+#### GET
+```
+IP:6264/
+```
+
+#### POST
+```
+IP:6264/
+```
 
 ##### Welcome Star, Fork, Issues!
 
