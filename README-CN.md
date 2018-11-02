@@ -14,6 +14,12 @@
 - 添加一些数据到你的数据库
 - 使用你的服务器 IP + 6264 端口进行访问
 
+### 关于数据库表
+
+像这样去配置它，更多请查看 #app.py#
+
+![](https://github.com/Turaiiao/little_word_server/blob/master/20181102224119.png)
+
 #### GET
 ```
 IP:6264/
