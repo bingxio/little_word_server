@@ -16,7 +16,7 @@ You can send some nice sentences in your database, according to API random loadi
 
 ### About MongoDB collection
 
-like this configuration, more MongoDB configuration to see **app.py**
+Each table must have at least one record, like this configuration, more MongoDB configuration to see **app.py**
 
 ![](https://github.com/Turaiiao/little_word_server/blob/master/20181102224119.png)
 
