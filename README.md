@@ -15,7 +15,9 @@ You can send some nice sentences in your database, according to API random loadi
 - Use your server IP address + port 6264 to see if you can load
 
 ### About MongoDB collection
+
 like this configuration
+
 ![](https://github.com/Turaiiao/little_word_server/blob/master/20181102224119.png)
 
 #### GET
