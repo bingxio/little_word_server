@@ -2,17 +2,17 @@
 
 ![](https://github.com/Turaiiao/little_word_server/blob/master/201811022203331.png)
 
-[简体中文](https://github.com/Turaiiao/little_word_server/blob/master/README-CN.md)
+[ENGLISH](https://github.com/Turaiiao/little_word_server/blob/master/README.md)
 
-A small python3 tornado service, You can deploy it to your server to get a restful-api service.
+一个简单的 python3 tornado RESTFUL API 服务，你可以将它部署到你的服务器上
 
-You can send some nice sentences in your database, according to API random loading.
+你可以保存一些优美的句子到你的数据库，然后用 API 接口随机加载
 
-- Edit the secret.conf file and configure your mongodb
-- Configure python3 on the server
-- Installation extension based on install-script-doc.txt file
-- Add a few data to your mongodb database
-- Use your server IP address + port 6264 to see if you can load
+- 编辑 secret.conf 文件配置你的 MongoDB 服务器
+- 在你的服务器上配置 python3
+- 安装 install-script-doc.txt 里的模块
+- 添加一些数据到你的数据库
+- 使用你的服务器 IP + 6264 端口进行访问
 
 #### GET
 ```
@@ -20,7 +20,7 @@ IP:6264/
 ```
 
 #### POST
-You must carry content or author to pass data, otherwise it will be 400 error server
+必须携带 content、author 字段值进行 POST，否则会报错 400 error
 ```
 IP:6264/
 ```
