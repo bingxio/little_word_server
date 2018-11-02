@@ -10,3 +10,5 @@ You can send some nice sentences in your database, according to API random loadi
 - Edit the secret.conf file and configure your mongodb
 - Configure python3 on the server
 - Installation extension based on install-script-doc.txt file
+- Add a few data to your mongodb database
+- Use your server IP address + port 6264 to see if you can load
