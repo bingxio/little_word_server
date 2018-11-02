@@ -20,6 +20,7 @@ IP:6264/
 ```
 
 #### POST
+You must carry content and author to deliver data.
 ```
 IP:6264/
 ```
