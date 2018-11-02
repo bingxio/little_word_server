@@ -16,7 +16,7 @@
 
 ### 关于数据库表
 
-像这样去配置它，更多请查看 **app.py**
+像这样去配置它，更多数据库配置请查看 **app.py**
 
 ![](https://github.com/Turaiiao/little_word_server/blob/master/20181102224119.png)
 
